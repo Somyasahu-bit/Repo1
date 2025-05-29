@@ -1,4 +1,4 @@
-# Repo1
+# Repo-1
 //Add two numbers in java program
 class main{
   public static void main(String[] args){
